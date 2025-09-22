@@ -1,6 +1,6 @@
 # VueProject
 ## Решение тестового задания менеджера контактов
-[Ссылка на репозиторий](https://github.com/AlexMoS1n/TrustContacts)
+[Ссылка на репозиторий](https://github.com/AlexMoS1n/VueProject)
 
 ## Описание проекта
 Создать spa приложение на Vue3 с использованием composition api
